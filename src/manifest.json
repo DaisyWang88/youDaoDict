@@ -4,6 +4,8 @@
 	"name": "有道词典划词扩展 V3",
 	"short_name": "有道词典",
 	"description": "可记录、导出查询历史！（为官方版擦屁股和脸）",
+	"update_url": "http://xuediannao.sinaapp.com/chrome/youdao/update.xml",
+	"homepage_url": "http://weibo.com/1055554120/D4z0FwEAH",
 	"icons": {
 		"128": "icon-128.png",
 		"64": "icon-128.png",
